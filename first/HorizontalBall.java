@@ -36,7 +36,7 @@ public class HorizontalBall extends JPanel {
     // Métodos para controlar la animación
     public void start() {
         x = 0; // Reinicia posición
-        dx = 25; // Dirección inicial
+        dx = 200; // VELOCIDAD DE LA PELOTA
         timer.start();
     }
 
