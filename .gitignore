@@ -1,2 +1,4 @@
 # Drivers de base de datos
 lib/
+
+.vscode/*
